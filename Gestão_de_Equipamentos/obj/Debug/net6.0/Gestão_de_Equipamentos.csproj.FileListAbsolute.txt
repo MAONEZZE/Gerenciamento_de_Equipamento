@@ -1,0 +1,15 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\bin\Debug\net6.0\Gestão_de_Equipamentos.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\bin\Debug\net6.0\Gestão_de_Equipamentos.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\bin\Debug\net6.0\Gestão_de_Equipamentos.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\bin\Debug\net6.0\Gestão_de_Equipamentos.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\bin\Debug\net6.0\Gestão_de_Equipamentos.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\obj\Debug\net6.0\Gestão_de_Equipamentos.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\obj\Debug\net6.0\Gestão_de_Equipamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\obj\Debug\net6.0\Gestão_de_Equipamentos.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\obj\Debug\net6.0\Gestão_de_Equipamentos.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\obj\Debug\net6.0\Gestão_de_Equipamentos.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\obj\Debug\net6.0\Gestão_de_Equipamentos.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\obj\Debug\net6.0\refint\Gestão_de_Equipamentos.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\obj\Debug\net6.0\Gestão_de_Equipamentos.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\obj\Debug\net6.0\Gestão_de_Equipamentos.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Gestão_de_Equipamentos\obj\Debug\net6.0\ref\Gestão_de_Equipamentos.dll
